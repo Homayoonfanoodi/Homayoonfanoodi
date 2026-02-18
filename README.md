@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Homayoon 👋
 
-<!--
-**Homayoonfanoodi/Homayoonfanoodi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Python Automation & Data Enthusiast  
 
-Here are some ideas to get you started:
+I build practical Python tools for:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✔ Data Cleaning  
+✔ CSV Processing  
+✔ File Automation  
+✔ Workflow Automation  
+
+---
+
+## 🛠 Skills
+
+- Python  
+- pandas  
+- NumPy  
+- File Automation  
+- Data Processing  
+
+---
+
+## 📂 Featured Projects
+
+🔹 Smart CSV Cleaner & Processor  
+Automates cleaning & preprocessing CSV datasets  
+
+More projects coming soon...
+
+---
+
+## 🎯 Current Focus
+
+Building automation tools & freelance-ready scripts
+
+---
+
+Thanks for visiting! ✨
